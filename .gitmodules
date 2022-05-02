@@ -1,0 +1,9 @@
+[submodule "firmware/mobilities-web"]
+	path = firmware/mobilities-web
+	url = git@github.com:mobilities-travel/mobilities-web.git
+[submodule "web/mobilities-web"]
+	path = web/mobilities-web
+	url = git@github.com:mobilities-travel/mobilities-web.git
+[submodule "api-gateway/mobilities-api"]
+	path = api-gateway/mobilities-api
+	url = git@github.com:mobilities-travel/mobilities-api.git
