@@ -7,3 +7,6 @@
 [submodule "api-gateway/mobilities-api"]
 	path = api-gateway/mobilities-api
 	url = git@github.com:mobilities-travel/mobilities-api.git
+[submodule "microservices/mobilities-user"]
+	path = microservices/mobilities-user
+	url = git@github.com:mobilities-travel/mobilities-user.git
